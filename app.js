@@ -9,7 +9,7 @@ searchBtn.addEventListener("click", (event) => {
   console.log(inputBtn.value);
   axios
     .get(
-      `http://api.giphy.com/v1/gifs/search?q=${inputBtn.value}&api_key=${API}&limit=6`
+      `https://api.giphy.com/v1/gifs/search?q=${inputBtn.value}&api_key=${API}&limit=6`
     )
 
     .then((res) => {
