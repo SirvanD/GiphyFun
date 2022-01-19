@@ -3,4 +3,4 @@
 
 
 ### ScreenShot
-![Screenshot](sss_giphy.png)
+![Screenshot](ss_giphy.png)
